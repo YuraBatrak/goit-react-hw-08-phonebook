@@ -1,0 +1,13 @@
+.filer_item {
+  text-align: center;
+  list-style: none;
+  border-top: 1px solid black;
+}
+.filter_button {
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 10px;
+}
+.list {
+  padding: 0px;
+}
